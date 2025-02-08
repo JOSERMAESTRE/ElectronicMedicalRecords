@@ -1,0 +1,45 @@
+{
+  "uuid": "340d9307-23b7-420d-b665-8553729c0716",
+  "historyId": "c966405f55fc650a0c1bd17db89d1604",
+  "testCaseId": "3629e93eab2080359b036ce055437787",
+  "fullName": "HospitalTest:HospitalTest.Tests.Test.RegisterPatient()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-JI6I8DAU"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "HospitalTest.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "RegisterPatient"
+    },
+    {
+      "name": "testClass",
+      "value": "Test"
+    }
+  ],
+  "links": [],
+  "name": "RegisterPatient",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1738891565069,
+  "stop": 1738891579535
+}

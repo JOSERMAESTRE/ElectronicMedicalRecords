@@ -1,0 +1,51 @@
+{
+  "uuid": "345cca8c-6c0b-40eb-a426-26766c43f39f",
+  "historyId": "f9f264d583db4e0d46c10a176c88650f",
+  "testCaseId": "1c3a0fa5fd0f0f2090fb408bbf71702b",
+  "fullName": "HospitalTest:HospitalTest.Tests.Test.StarVisit()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-JI6I8DAU"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "HospitalTest.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "StarVisit"
+    },
+    {
+      "name": "testClass",
+      "value": "Test"
+    }
+  ],
+  "links": [],
+  "name": "StarVisit",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "57971e52-ba20-455b-9cfd-cf9b7c613d40-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1738892567483,
+  "stop": 1738892577412
+}

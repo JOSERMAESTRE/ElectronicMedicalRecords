@@ -1,0 +1,12 @@
+{
+  "uuid": "8a63d6df-6d9a-4462-885b-92306a5b77d5",
+  "name": "HospitalTest.Tests.Test.CaptureVital",
+  "children": [
+    "edae6ec9-ea7a-4c82-ac46-47674698adf3"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1738893388414,
+  "stop": 1738893399093
+}

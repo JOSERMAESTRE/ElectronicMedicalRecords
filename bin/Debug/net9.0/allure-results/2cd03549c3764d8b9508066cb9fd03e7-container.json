@@ -1,0 +1,12 @@
+{
+  "uuid": "493e6ebe-6557-43f2-ba11-85f67cf9fa36",
+  "name": "HospitalTest.Tests.Test.StarVisit",
+  "children": [
+    "6cccbdf2-e0b3-44fa-a7db-67cecee81706"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1739051271834,
+  "stop": 1739051298902
+}

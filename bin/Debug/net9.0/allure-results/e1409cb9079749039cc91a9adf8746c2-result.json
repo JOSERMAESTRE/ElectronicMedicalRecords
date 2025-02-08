@@ -1,0 +1,51 @@
+{
+  "uuid": "a7822c21-5fdb-471d-a125-ae6d0e2f07d4",
+  "historyId": "4ac947467535d6d80be3a5b34a0e4ded",
+  "testCaseId": "b75e76d4c5071d12b49a7365c47c6654",
+  "fullName": "HospitalTest:HospitalTest.Tests.Test.AttachFile()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-JI6I8DAU"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "HospitalTest.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "AttachFile"
+    },
+    {
+      "name": "testClass",
+      "value": "Test"
+    }
+  ],
+  "links": [],
+  "name": "AttachFile",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "1b34a26b-b6ec-49dc-a0b0-78254af4becb-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1738893020065,
+  "stop": 1738893031587
+}

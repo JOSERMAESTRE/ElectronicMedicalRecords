@@ -1,0 +1,52 @@
+{
+  "uuid": "5a255cc8-1456-4b5e-a2d2-a591799ba3f3",
+  "historyId": "d347523c3f7e0409b5eac2fdf03cb37e",
+  "testCaseId": "3a5073fe4786e922185220f0fd5737de",
+  "fullName": "HospitalTest:HospitalTest.Tests.Test.CaptureVital()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-JI6I8DAU"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "HospitalTest.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CaptureVital"
+    },
+    {
+      "name": "testClass",
+      "value": "Test"
+    }
+  ],
+  "links": [],
+  "name": "CaptureVital",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#coreapps\\-vitals\\-confirm\"}\n  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElement(By by)\r\n   at HospitalTest.Pages.BasePage.FindElement(By locator) in C:\\Users\\Jose R\\Documents\\HospitalTest\\Pages\\BasePage.cs:line 20\r\n   at HospitalTest.Pages.BasePage.Click(By locator) in C:\\Users\\Jose R\\Documents\\HospitalTest\\Pages\\BasePage.cs:line 28\r\n   at HospitalTest.Pages.FindPatient.CaptureVitals() in C:\\Users\\Jose R\\Documents\\HospitalTest\\Pages\\FindPatient.cs:line 30\r\n   at HospitalTest.Tests.Test.CaptureVital() in C:\\Users\\Jose R\\Documents\\HospitalTest\\Tests\\Test.cs:line 32\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1738891588759,
+  "stop": 1738891596078
+}

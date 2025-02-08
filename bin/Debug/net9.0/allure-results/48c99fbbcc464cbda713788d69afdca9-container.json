@@ -1,0 +1,12 @@
+{
+  "uuid": "1443376c-8d27-4bcb-bc23-853ce3f4e173",
+  "name": "HospitalTest.Tests.Test",
+  "children": [
+    "36ca844b-151a-4ca3-817d-37ae1c9a577d"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1739049937288,
+  "stop": 1739049952585
+}

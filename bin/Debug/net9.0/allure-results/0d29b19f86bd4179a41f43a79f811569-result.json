@@ -1,0 +1,45 @@
+{
+  "uuid": "0bc4ae03-2ac4-4add-ab43-824625e4ebf9",
+  "historyId": "d347523c3f7e0409b5eac2fdf03cb37e",
+  "testCaseId": "3a5073fe4786e922185220f0fd5737de",
+  "fullName": "HospitalTest:HospitalTest.Tests.Test.CaptureVital()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-JI6I8DAU"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "HospitalTest.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "CaptureVital"
+    },
+    {
+      "name": "testClass",
+      "value": "Test"
+    }
+  ],
+  "links": [],
+  "name": "CaptureVital",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1738893009344,
+  "stop": 1738893020063
+}
