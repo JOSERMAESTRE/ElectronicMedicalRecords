@@ -1,4 +1,4 @@
-# Flow Testing - Selenium .NET
+# OPEN EMR Testing - Selenium .NET
 This project automates the testing of a patient management platform using NUnit, C#, and Allure. The platform allows healthcare providers to register patients, record vital signs, and manage diagnoses efficiently.
 
 For the best experience, it is recommended to open this project in VS Code.
